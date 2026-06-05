@@ -1,0 +1,9 @@
+# Google認証ファイル（絶対にアップロードしないこと！）
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
